@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+I'm SRIVATHSJAYAN an Embedded Firmware / Software Engineer
 
+I use STM32
 <!--
 **SrivathsjayanC/SrivathsjayanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
