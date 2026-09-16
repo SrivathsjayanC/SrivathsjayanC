@@ -19,7 +19,7 @@ I primarily work with **STM32** to develop embedded systems, from low-level firm
 * Logic Analyzer
 * Oscilloscope
 * Digital Multimeter
-* Protocol-level debugging of SPI, I2C, UART & CAN
+* Protocol-level debugging of SPI, I2C, UART
 
 🚀 Interested in **embedded firmware, hardware-software integration, signal acquisition, and EV systems**.
 
